@@ -1,0 +1,1 @@
+window.AWS_ICONS = [];
